@@ -5,7 +5,7 @@ ___
 
 - **Community detection using boundary nodes in complex networks**
 
-Mursel Tasgin, Haluk O.Bingol
+Mursel Tasgin, Haluk O. Bingol
 
 *Physica A: Statistical Mechanics and its Applications*
 
@@ -17,7 +17,7 @@ ___
 
 - **Community detection using preference networks**
 
-Mursel Tasgin, Haluk O.Bingol
+Mursel Tasgin, Haluk O. Bingol
 
 *Physica A: Statistical Mechanics and its Applications*
 
@@ -29,7 +29,7 @@ ___
 
 - **Gossip on weighted networks**
 
-Mursel Tasgin, Haluk O.Bingol
+Mursel Tasgin, Haluk O. Bingol
 
 *Advances in Complex Systems*
 
