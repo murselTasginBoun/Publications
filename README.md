@@ -1,9 +1,6 @@
 # Publications
 Publications of Mursel Tasgin
 
-Community detection in complex networks using genetic algorithms
-M Tasgin, A Herdagdelen, H Bingol
-arXiv preprint arXiv:0711.0491
 
 - Community detection using boundary nodes in complex networks
 Physica A: Statistical Mechanics and its Applications
@@ -17,6 +14,14 @@ Physica A: Statistical Mechanics and its Applications
 Volume 495, 1 April 2018, Pages 126-136
 https://www.sciencedirect.com/science/article/pii/S0378437117313031
 
-Gossip on weighted networks
+
+- Gossip on weighted networks
 Mursel Tasgin, Haluk O.Bingol
 Advances in Complex SystemsVol. 15, No. supp01, 1250061 (2012)
+https://www.worldscientific.com/doi/abs/10.1142/S0219525912500610
+
+
+- Community detection in complex networks using genetic algorithms
+M Tasgin, A Herdagdelen, H Bingol
+arXiv preprint arXiv:0711.0491
+https://arxiv.org/abs/0711.0491
