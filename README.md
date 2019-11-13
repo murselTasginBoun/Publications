@@ -1,5 +1,5 @@
 # Publications
-Publications of Mursel Tasgin
+Publications of Mursel Tasgin, Ph.D.
 
 
 - Community detection using boundary nodes in complex networks
