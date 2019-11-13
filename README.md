@@ -1,6 +1,7 @@
 # Publications
 Publications of Mursel Tasgin, Ph.D.
 
+___
 
 - **Community detection using boundary nodes in complex networks**
 
@@ -30,8 +31,7 @@ Mursel Tasgin, Haluk O.Bingol
 Vol. 15, No. supp01, 1250061 (2012)
 https://www.worldscientific.com/doi/abs/10.1142/S0219525912500610
 
-
-
+___
 
 - **Community detection in complex networks using genetic algorithms**
 
@@ -39,3 +39,5 @@ Mursel Tasgin, Amac Herdagdelen, Haluk O. Bingol
 
 *arXiv preprint arXiv:0711.0491*
 https://arxiv.org/abs/0711.0491
+
+___
